@@ -1,0 +1,14 @@
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net6.0\InventoryManagementSystem.exe
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net6.0\InventoryManagementSystem.deps.json
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net6.0\InventoryManagementSystem.runtimeconfig.json
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net6.0\InventoryManagementSystem.dll
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net6.0\InventoryManagementSystem.pdb
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net6.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net6.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net6.0\InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net6.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net6.0\InventoryManagementSystem.dll
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net6.0\refint\InventoryManagementSystem.dll
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net6.0\InventoryManagementSystem.pdb
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net6.0\InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\Finnley\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net6.0\ref\InventoryManagementSystem.dll

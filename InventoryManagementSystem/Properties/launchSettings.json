@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InventoryManagementSystem": {
+      "commandName": "Project",
+      "commandLineArgs": "-r fasdjl"
+    }
+  }
+}

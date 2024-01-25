@@ -1,0 +1,12 @@
+[
+  {
+    "Brand": "Pearl",
+    "Model": "Masterworks",
+    "DrumType": 0,
+    "Id": "5bbe5d3c-e605-4fc6-9448-27cd245b62f1",
+    "Name": "Snare Drum",
+    "Price": 300,
+    "Quantity": 5,
+    "Type": "Drum"
+  }
+]

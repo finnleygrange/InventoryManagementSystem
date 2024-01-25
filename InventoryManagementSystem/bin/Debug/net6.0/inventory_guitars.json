@@ -1,0 +1,52 @@
+[
+  {
+    "Brand": "Fender",
+    "Model": "Stratocaster",
+    "NumberOfStrings": 6,
+    "Id": "5b1bd770-bf5d-461f-8fa1-fefa373349fe",
+    "Name": "Six-String Guitar",
+    "Price": 700,
+    "Quantity": 2,
+    "Type": "Guitar"
+  },
+  {
+    "Brand": "Fender",
+    "Model": "Stratocaster",
+    "NumberOfStrings": 6,
+    "Id": "9ab86375-f24f-4c29-be72-7b4875a773e2",
+    "Name": "Six-String Guitar",
+    "Price": 700,
+    "Quantity": 2,
+    "Type": "Guitar"
+  },
+  {
+    "Brand": "Fender",
+    "Model": "Stratocaster",
+    "NumberOfStrings": 6,
+    "Id": "e9f71ec6-b8db-430d-975e-66e56dab602f",
+    "Name": "Six-String Guitar",
+    "Price": 700,
+    "Quantity": 2,
+    "Type": "Guitar"
+  },
+  {
+    "Brand": "Fender",
+    "Model": "Stratocaster",
+    "NumberOfStrings": 6,
+    "Id": "42ae53f1-df30-431c-8314-b6f1ee646e25",
+    "Name": "Six-String Guitar",
+    "Price": 700,
+    "Quantity": 2,
+    "Type": "Guitar"
+  },
+  {
+    "Brand": "Fender",
+    "Model": "Stratocaster",
+    "NumberOfStrings": 6,
+    "Id": "097ef5fd-8c39-4329-95db-7ed694b726ff",
+    "Name": "Six-String Guitar",
+    "Price": 700,
+    "Quantity": 2,
+    "Type": "Guitar"
+  }
+]
